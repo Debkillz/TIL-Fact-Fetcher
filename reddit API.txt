@@ -1,0 +1,5 @@
+client_id= uWW-iJ0ZMeKrA3OFRYlF4Q
+
+client_secret= Q0pTrzOhhkcHZpmp6E4Or5ZvtzR8rw
+
+user_agent= Admirable_Science735
