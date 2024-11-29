@@ -1,4 +1,4 @@
-# TIL Fact Fetcher: Automated Knowledge Aggregation Tool
+# TIL Fact Fetcher: Interactive Knowledge Aggregation Tool
 
 • Developed a Python-driven Reddit scraper that autonomously retrieves and manages interesting facts from r/TodayILearned, featuring interactive fact selection, file saving, and email distribution capabilities.
 
